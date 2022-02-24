@@ -1,7 +1,7 @@
 name: date_to_words
 description: Date to English word converter package
 version: 0.0.1
-homepage:
+homepage: https://github.com/subair-zufi/date_to_words
 
 environment:
   sdk: ">=2.15.0 <3.0.0"
